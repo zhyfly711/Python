@@ -1,4 +1,4 @@
-import a2
+import a1_twoRats
 import Tkinter
 import tkFileDialog
 #import Tkinter.font
